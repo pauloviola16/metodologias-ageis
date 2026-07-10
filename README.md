@@ -1,9 +1,35 @@
-# Estudos: Scrum e Kanban
+# Estudos: Metodologias Ágeis (Scrum e Kanban)
 
-Repositório de estudos sobre metodologias ágeis, com aplicação prática 
+Repositório de estudos sobre Scrum e Kanban, com aplicação prática real 
 no projeto Motoboy Management System (Conecta Express).
 
 ## Objetivo
-Consolidar conhecimento teórico e prático em Scrum e Kanban para 
-atuação como desenvolvedor, documentando o processo de aprendizado.
+Consolidar conhecimento teórico em metodologias ágeis e documentar como 
+apliquei esse conhecimento num projeto real, como parte da minha preparação 
+para vagas de estágio em desenvolvimento backend.
 
+## Estrutura
+
+### Scrum
+- [Visão Geral](scrum/01-visao-geral.md)
+- [Pilares e Valores](scrum/02-pilares-e-valores.md)
+- [Time Scrum](scrum/03-time-scrum.md)
+- [Eventos](scrum/04-eventos.md)
+- [Artefatos](scrum/05-artefatos.md)
+- [Regras da Sprint](scrum/06-regras-da-sprint.md)
+
+### Kanban
+- [Visão Geral](kanban/01-visao-geral.md)
+- [Princípios e Práticas](kanban/02-praticas-e-principios.md)
+- [Métricas](kanban/03-metricas.md)
+- [Quadro Kanban](kanban/04-quadro-kanban.md)
+
+### Comparativo e Aplicação Prática
+- [Comparativo Scrum vs. Kanban](comparativo-scrum-kanban.md)
+- [Aplicação Prática](aplicacao-pratica.md)
+
+## Certificação
+Exame Scrum Foundation Professional Certificate (SFPC) realizado via CertiProf.
+
+## Status
+✅ Estudo concluído — última atualização: julho de 2026
