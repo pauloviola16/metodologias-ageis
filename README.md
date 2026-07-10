@@ -4,9 +4,9 @@ Repositório de estudos sobre Scrum e Kanban, com aplicação prática real
 no projeto Motoboy Management System (Conecta Express).
 
 ## Objetivo
-Consolidar conhecimento teórico em metodologias ágeis e documentar como 
-apliquei esse conhecimento num projeto real, como parte da minha preparação 
-para vagas de estágio em desenvolvimento backend.
+Consolidar conhecimento teórico em Scrum e Kanban, documentando conceitos, 
+comparações entre os dois frameworks e uma aplicação prática real no 
+projeto Motoboy Management System.
 
 ## Estrutura
 
@@ -31,5 +31,3 @@ para vagas de estágio em desenvolvimento backend.
 ## Certificação
 Exame Scrum Foundation Professional Certificate (SFPC) realizado via CertiProf.
 
-## Status
-✅ Estudo concluído — última atualização: julho de 2026
