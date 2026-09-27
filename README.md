@@ -1,6 +1,5 @@
 # Estudos: Metodologias Ágeis (Scrum e Kanban)
 
-
 Repositório de estudos sobre Scrum e Kanban, com aplicação prática real 
 no projeto Motoboy Management System (Conecta Express).
 
