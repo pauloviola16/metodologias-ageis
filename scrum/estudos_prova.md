@@ -77,3 +77,18 @@ Quando a inspeção identifica algum problema ou desvio, a equipe deve **ajustar
 - **Sprint Backlog:** itens escolhidos para serem feitos na sprint.
 - **Incremento:** resultado funcional produzido durante a sprint.
 - **Definição de Pronto (DoD):** critérios que determinam quando um item está realmente concluído.
+
+# Princípios do Manifesto Ágil
+
+1. **Satisfação do cliente:** entregar software de valor continuamente.
+2. **Aceitar mudanças:** requisitos podem mudar mesmo durante o desenvolvimento.
+3. **Entregas frequentes:** entregar software funcionando em ciclos curtos.
+4. **Colaboração contínua:** negócio e desenvolvimento devem trabalhar juntos.
+5. **Times motivados:** dar suporte, confiança e autonomia à equipe.
+6. **Comunicação direta:** priorizar comunicação clara e eficiente.
+7. **Software funcionando:** é a principal medida de progresso.
+8. **Ritmo sustentável:** manter um ritmo de trabalho constante.
+9. **Excelência técnica:** qualidade técnica e bom design aumentam a agilidade.
+10. **Simplicidade:** fazer apenas o necessário.
+11. **Auto-organização:** equipes organizam seu próprio trabalho.
+12. **Melhoria contínua:** refletir, ajustar e melhorar constantemente.
