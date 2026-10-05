@@ -23,3 +23,25 @@ Segundo Wildt (2015), uma mesma pessoa pode exercer mais de um papel, desde que 
 - **Cleaner**
 - **Tracker**
 - **Gerente**
+
+- # Pilares do Scrum
+
+O **Scrum** utiliza um processo empírico apoiado em três pilares:
+
+## 1. Transparência
+
+As informações importantes sobre o trabalho devem estar **visíveis, claras e compreensíveis** para todos os envolvidos.
+
+Isso permite que a equipe tenha uma visão comum sobre o andamento do projeto.
+
+## 2. Inspeção
+
+O trabalho e o progresso devem ser **avaliados frequentemente** para identificar problemas, desvios ou oportunidades de melhoria.
+
+## 3. Adaptação
+
+Quando a inspeção identifica algum problema ou desvio, a equipe deve **ajustar o processo ou o produto** o mais rápido possível.
+
+> **Resumo:**  
+> **Transparência → Inspeção → Adaptação**  
+> Primeiro todos enxergam o que está acontecendo, depois analisam os resultados e, se necessário, realizam ajustes.
