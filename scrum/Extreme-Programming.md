@@ -1,24 +1,10 @@
-VALORES
-Comunicação
-Feedback
-Simplicidade
-Respeito
-Coragem
+Os principais valores do **Extreme Programming (XP)** são:
 
-
-Equipe inteira
-
-Colaboração com partes interessadas, como cliente, deve ser uma prática constante da equipe com o objetivo de promover a interação com o time para fornecer requisitos e prioridades para o time de desenvolvimento.
-
-
-Pequenas entregas
-
-Entregas pequenas e frequentes são essenciais para a obtenção de feedback.
-
-
-Testes de aceitação (cliente)
-
-Ao definir o requisito, o cliente define os critérios de aceitação para o requisito. A equipe deve desenvolver o objeto do requisito à luz dos critérios de aceitação, e implementar testes automatizados para validar se o que foi desenvolvido está de acordo com o que foi pedido pelo cliente.
+- **Comunicação**
+- **Feedback**
+- **Simplicidade**
+- **Respeito**
+- **Coragem**
 
 # Papéis do XP
 
