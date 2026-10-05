@@ -61,3 +61,11 @@ Quando a inspeção identifica algum problema ou desvio, a equipe deve **ajustar
 - **Dev Team:** desenvolve e entrega o produto.
 
 > **Resumo:** PO prioriza, Scrum Master facilita e Dev Team desenvolve.
+>
+> # Eventos do Scrum
+
+- **Sprint:** ciclo de trabalho com duração de até 1 mês.
+- **Sprint Planning:** define a meta da sprint e o que será feito.
+- **Daily Meeting:** reunião diária de até 15 minutos para acompanhar progresso e impedimentos.
+- **Sprint Review:** apresenta o que foi desenvolvido e valida o incremento.
+- **Sprint Retrospective:** analisa o que deu certo, o que deu errado e como melhorar na próxima sprint.
