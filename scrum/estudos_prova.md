@@ -53,3 +53,11 @@ Quando a inspeção identifica algum problema ou desvio, a equipe deve **ajustar
 - **Comprometimento**
 - **Respeito**
 - **Abertura**
+
+- # Time Scrum
+
+- **Product Owner (PO):** define prioridades e gerencia o Product Backlog.
+- **Scrum Master:** ajuda o time a aplicar o Scrum e remove impedimentos.
+- **Dev Team:** desenvolve e entrega o produto.
+
+> **Resumo:** PO prioriza, Scrum Master facilita e Dev Team desenvolve.
