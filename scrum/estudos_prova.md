@@ -69,3 +69,11 @@ Quando a inspeção identifica algum problema ou desvio, a equipe deve **ajustar
 - **Daily Meeting:** reunião diária de até 15 minutos para acompanhar progresso e impedimentos.
 - **Sprint Review:** apresenta o que foi desenvolvido e valida o incremento.
 - **Sprint Retrospective:** analisa o que deu certo, o que deu errado e como melhorar na próxima sprint.
+
+- # Artefatos do Scrum
+
+- **Product Backlog:** lista de tudo que pode ser necessário no produto.
+- **Refinamento do Backlog:** revisão e detalhamento dos itens do Product Backlog.
+- **Sprint Backlog:** itens escolhidos para serem feitos na sprint.
+- **Incremento:** resultado funcional produzido durante a sprint.
+- **Definição de Pronto (DoD):** critérios que determinam quando um item está realmente concluído.
