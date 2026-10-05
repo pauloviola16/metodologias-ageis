@@ -45,3 +45,11 @@ Quando a inspeção identifica algum problema ou desvio, a equipe deve **ajustar
 > **Resumo:**  
 > **Transparência → Inspeção → Adaptação**  
 > Primeiro todos enxergam o que está acontecendo, depois analisam os resultados e, se necessário, realizam ajustes.
+
+## Principais valores
+
+- **Coragem**
+- **Foco**
+- **Comprometimento**
+- **Respeito**
+- **Abertura**
