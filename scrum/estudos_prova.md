@@ -92,3 +92,12 @@ Quando a inspeção identifica algum problema ou desvio, a equipe deve **ajustar
 10. **Simplicidade:** fazer apenas o necessário.
 11. **Auto-organização:** equipes organizam seu próprio trabalho.
 12. **Melhoria contínua:** refletir, ajustar e melhorar constantemente.
+
+# MoSCoW
+
+Método de priorização dividido em quatro categorias:
+
+- **Must have:** obrigatório.
+- **Should have:** importante, mas não essencial.
+- **Could have:** desejável, se houver tempo.
+- **Won't have:** não será feito neste momento.
