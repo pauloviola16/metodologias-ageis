@@ -102,7 +102,7 @@ Método de priorização dividido em quatro categorias:
 - **Could have:** desejável, se houver tempo.
 - **Won't have:** não será feito neste momento.
 
-- # Kanban
+ # Kanban
 
 - Método de **gestão visual do fluxo de trabalho**.
 - Ajuda a visualizar, gerenciar e melhorar o andamento das tarefas.
