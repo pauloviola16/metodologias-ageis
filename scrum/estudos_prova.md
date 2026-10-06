@@ -134,3 +134,41 @@ Método de priorização dividido em quatro categorias:
 - **Gantt Chart:** mostra tarefas distribuídas ao longo do tempo, com duração e dependências.
 - **Histograma:** mostra a distribuição de dados por faixas, facilitando a análise de frequência.
 - **Dashboard:** painel visual que reúne indicadores e métricas importantes do projeto.
+
+# Guia PMBOK 7
+
+O **PMBOK 7** é um guia de boas práticas para gerenciamento de projetos.
+
+## Principais pontos
+
+- Foco maior em **princípios** e resultados, e não apenas em processos.
+- Pode ser aplicado em projetos **tradicionais, ágeis ou híbridos**.
+- O objetivo principal é gerar **valor para a organização e para as partes interessadas**.
+
+## 12 princípios
+
+- **Responsabilidade:** agir com ética e cuidado.
+- **Equipe:** criar ambiente colaborativo.
+- **Stakeholders:** envolver as partes interessadas.
+- **Valor:** manter o foco na entrega de valor.
+- **Pensamento sistêmico:** entender como as partes do projeto se relacionam.
+- **Liderança:** orientar e influenciar positivamente a equipe.
+- **Tailoring:** adaptar o gerenciamento conforme o projeto.
+- **Qualidade:** garantir que as entregas atendam às necessidades.
+- **Complexidade:** entender e lidar com situações complexas.
+- **Riscos:** identificar ameaças e oportunidades.
+- **Adaptabilidade e resiliência:** responder bem às mudanças.
+- **Mudança:** facilitar mudanças para alcançar os resultados esperados.
+
+## 8 domínios de desempenho
+
+- **Stakeholders**
+- **Equipe**
+- **Abordagem de desenvolvimento e ciclo de vida**
+- **Planejamento**
+- **Trabalho do projeto**
+- **Entrega**
+- **Medição**
+- **Incerteza**
+
+> **Resumo:** o PMBOK 7 é focado em **valor, pessoas, adaptação, qualidade, riscos e resultados**, permitindo escolher a melhor abordagem para cada projeto.
