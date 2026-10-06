@@ -108,3 +108,11 @@ Método de priorização dividido em quatro categorias:
 - Ajuda a visualizar, gerenciar e melhorar o andamento das tarefas.
 - Pode complementar o **Scrum**.
 - **Scrumban** combina práticas de Scrum e Kanban.
+
+ # Métricas e gráficos do fluxo
+
+- **CFD (Cumulative Flow Diagram):** mostra a quantidade de itens acumulados em cada etapa do fluxo e ajuda a identificar gargalos.
+- **WIP (Work in Progress):** quantidade de tarefas que estão sendo executadas ao mesmo tempo.
+- **Gantt Chart:** mostra tarefas distribuídas ao longo do tempo, com duração e dependências.
+- **Histograma:** mostra a distribuição de dados por faixas, facilitando a análise de frequência.
+- **Dashboard:** painel visual que reúne indicadores e métricas importantes do projeto.
