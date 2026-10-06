@@ -101,3 +101,10 @@ Método de priorização dividido em quatro categorias:
 - **Should have:** importante, mas não essencial.
 - **Could have:** desejável, se houver tempo.
 - **Won't have:** não será feito neste momento.
+
+- # Kanban
+
+- Método de **gestão visual do fluxo de trabalho**.
+- Ajuda a visualizar, gerenciar e melhorar o andamento das tarefas.
+- Pode complementar o **Scrum**.
+- **Scrumban** combina práticas de Scrum e Kanban.
