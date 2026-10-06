@@ -24,6 +24,24 @@ Segundo Wildt (2015), uma mesma pessoa pode exercer mais de um papel, desde que 
 - **Tracker**
 - **Gerente**
 
+# XP (Extreme Programming)
+
+- **Whole Team:** cliente e desenvolvedores trabalham juntos.
+- **Planning Game:** cliente prioriza requisitos e o time estima o esforço.
+- **Small Releases:** pequenas entregas frequentes para obter feedback rápido.
+- **Customer Tests:** testes de aceitação validam se o requisito foi atendido.
+- **Coding Standard:** equipe segue padrões de código para manter consistência.
+- **Sustainable Pace:** ritmo de trabalho saudável e sustentável.
+- **Metaphor:** linguagem simples para representar a ideia do sistema.
+- **Continuous Integration:** integrar e testar o código frequentemente.
+- **Collective Ownership:** qualquer desenvolvedor pode alterar qualquer parte do código.
+- **TDD:** criar os testes antes do código.
+- **Refactoring:** melhorar o código sem alterar seu comportamento.
+- **Simple Design:** desenvolver apenas o necessário.
+- **Pair Programming:** dois desenvolvedores trabalham juntos no mesmo código.
+
+> **Resumo:** XP busca qualidade, feedback rápido, simplicidade, colaboração e entregas frequentes.
+
 - # Pilares do Scrum
 
 O **Scrum** utiliza um processo empírico apoiado em três pilares:
