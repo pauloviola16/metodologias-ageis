@@ -1,174 +1,200 @@
-Os principais valores do **Extreme Programming (XP)** são:
+# Super Resumo para Prova — Metodologias Ágeis
 
-- **Comunicação**
-- **Feedback**
-- **Simplicidade**
-- **Respeito**
-- **Coragem**
+> Revisão focada em Scrum, XP, Kanban, Manifesto Ágil e conceitos complementares.
 
-# Papéis do XP
+## 1. Scrum — Prioridade Máxima
 
-No **Extreme Programming (XP)**, existem alguns papéis definidos para distribuir melhor as responsabilidades durante o desenvolvimento de software.
+**Scrum:** framework ágil baseado em entregas incrementais, colaboração e ciclos curtos chamados Sprints.
 
-Segundo Wildt (2015), uma mesma pessoa pode exercer mais de um papel, desde que isso **não gere conflito de interesses**.
+### Três pilares
 
-> Exemplo: um gerente pressionado por uma entrega não deveria atuar ao mesmo tempo como **coach**, pois o coach precisa ter paciência e manter o foco na evolução e no comportamento da equipe.
+- **Transparência:** todos conhecem o andamento do trabalho.
+- **Inspeção:** verificar resultados e identificar problemas.
+- **Adaptação:** ajustar o processo conforme necessário.
 
-## Principais papéis
+### Cinco valores
 
-- **Desenvolvedor**
-- **Cliente**
-- **Coach**
-- **Testador**
-- **Cleaner**
-- **Tracker**
-- **Gerente**
+**Compromisso, Foco, Abertura, Respeito e Coragem.**
 
-# XP (Extreme Programming)
+> **Pegadinha:** Empatia não é um dos cinco valores oficiais do Scrum.
 
-- **Whole Team:** cliente e desenvolvedores trabalham juntos.
-- **Planning Game:** cliente prioriza requisitos e o time estima o esforço.
-- **Small Releases:** pequenas entregas frequentes para obter feedback rápido.
-- **Customer Tests:** testes de aceitação validam se o requisito foi atendido.
-- **Coding Standard:** equipe segue padrões de código para manter consistência.
-- **Sustainable Pace:** ritmo de trabalho saudável e sustentável.
-- **Metaphor:** linguagem simples para representar a ideia do sistema.
-- **Continuous Integration:** integrar e testar o código frequentemente.
-- **Collective Ownership:** qualquer desenvolvedor pode alterar qualquer parte do código.
-- **TDD:** criar os testes antes do código.
-- **Refactoring:** melhorar o código sem alterar seu comportamento.
-- **Simple Design:** desenvolver apenas o necessário.
-- **Pair Programming:** dois desenvolvedores trabalham juntos no mesmo código.
+### Três responsabilidades do Scrum Team
 
-> **Resumo:** XP busca qualidade, feedback rápido, simplicidade, colaboração e entregas frequentes.
+| Papel | Função |
+|---|---|
+| **Product Owner (PO)** | Maximiza o valor do produto e ordena o Product Backlog |
+| **Scrum Master** | Facilita a aplicação do Scrum e ajuda a eliminar impedimentos |
+| **Developers** | Planejam e desenvolvem os incrementos do produto |
 
-- # Pilares do Scrum
+**Atenção:** Scrum Master não é chefe da equipe. O time é autogerenciável e multifuncional.
 
-O **Scrum** utiliza um processo empírico apoiado em três pilares:
+### Cinco eventos do Scrum
 
-## 1. Transparência
+| Evento | Objetivo |
+|---|---|
+| **Sprint** | Ciclo de trabalho de até 1 mês |
+| **Sprint Planning** | Planejar o que será realizado e por quê |
+| **Daily Scrum** | Reunião diária de 15 minutos para inspecionar o progresso e adaptar o plano |
+| **Sprint Review** | Avaliar o resultado com interessados e obter feedback |
+| **Sprint Retrospective** | Identificar melhorias no trabalho da equipe |
 
-As informações importantes sobre o trabalho devem estar **visíveis, claras e compreensíveis** para todos os envolvidos.
+> **Pegadinha:** Review avalia o produto e próximos passos; Retrospective avalia como a equipe trabalhou.
 
-Isso permite que a equipe tenha uma visão comum sobre o andamento do projeto.
+### Artefatos e compromissos
 
-## 2. Inspeção
+| Artefato | Compromisso |
+|---|---|
+| **Product Backlog:** lista ordenada do que o produto precisa | Product Goal |
+| **Sprint Backlog:** plano de trabalho da Sprint | Sprint Goal |
+| **Increment:** resultado utilizável produzido | Definition of Done |
 
-O trabalho e o progresso devem ser **avaliados frequentemente** para identificar problemas, desvios ou oportunidades de melhoria.
+**Definition of Done (DoD):** critérios que precisam ser cumpridos para considerar o trabalho concluído.
 
-## 3. Adaptação
+---
 
-Quando a inspeção identifica algum problema ou desvio, a equipe deve **ajustar o processo ou o produto** o mais rápido possível.
+## 2. XP — Extreme Programming
 
-> **Resumo:**  
-> **Transparência → Inspeção → Adaptação**  
-> Primeiro todos enxergam o que está acontecendo, depois analisam os resultados e, se necessário, realizam ajustes.
+**XP:** metodologia ágil focada em qualidade do código, boas práticas de programação, colaboração e feedback rápido.
 
-## Principais valores
+### Cinco valores do XP
 
-- **Coragem**
-- **Foco**
-- **Comprometimento**
-- **Respeito**
-- **Abertura**
+**Comunicação, Simplicidade, Feedback, Coragem e Respeito.**
 
-- # Time Scrum
+### Principais práticas
 
-- **Product Owner (PO):** define prioridades e gerencia o Product Backlog.
-- **Scrum Master:** ajuda o time a aplicar o Scrum e remove impedimentos.
-- **Dev Team:** desenvolve e entrega o produto.
+- **Pair Programming:** dois desenvolvedores trabalham juntos no código.
+- **TDD:** primeiro escreve o teste, depois implementa o código.
+- **Refatoração:** melhora a estrutura interna sem alterar o comportamento esperado.
+- **Integração contínua:** integrar e testar alterações frequentemente.
+- **Pequenas entregas:** entregar funcionalidades em incrementos pequenos.
+- **Cliente presente:** participação frequente do cliente para esclarecer requisitos e validar entregas.
+- **Ritmo sustentável:** evitar sobrecarga constante.
 
-> **Resumo:** PO prioriza, Scrum Master facilita e Dev Team desenvolve.
->
-> # Eventos do Scrum
+### Papéis do XP
 
-- **Sprint:** ciclo de trabalho com duração de até 1 mês.
-- **Sprint Planning:** define a meta da sprint e o que será feito.
-- **Daily Meeting:** reunião diária de até 15 minutos para acompanhar progresso e impedimentos.
-- **Sprint Review:** apresenta o que foi desenvolvido e valida o incremento.
-- **Sprint Retrospective:** analisa o que deu certo, o que deu errado e como melhorar na próxima sprint.
+Nos exercícios estudados, também apareceram papéis como:
 
-- # Artefatos do Scrum
+- Cliente
+- Desenvolvedor
+- Coach
+- Testador
+- Tracker
+- Cleaner
+- Gerente
 
-- **Product Backlog:** lista de tudo que pode ser necessário no produto.
-- **Refinamento do Backlog:** revisão e detalhamento dos itens do Product Backlog.
-- **Sprint Backlog:** itens escolhidos para serem feitos na sprint.
-- **Incremento:** resultado funcional produzido durante a sprint.
-- **Definição de Pronto (DoD):** critérios que determinam quando um item está realmente concluído.
+> **Atenção:** XP possui práticas e papéis diferentes dos três do Scrum.
 
-# Princípios do Manifesto Ágil
+---
 
-1. **Satisfação do cliente:** entregar software de valor continuamente.
-2. **Aceitar mudanças:** requisitos podem mudar mesmo durante o desenvolvimento.
-3. **Entregas frequentes:** entregar software funcionando em ciclos curtos.
-4. **Colaboração contínua:** negócio e desenvolvimento devem trabalhar juntos.
-5. **Times motivados:** dar suporte, confiança e autonomia à equipe.
-6. **Comunicação direta:** priorizar comunicação clara e eficiente.
-7. **Software funcionando:** é a principal medida de progresso.
-8. **Ritmo sustentável:** manter um ritmo de trabalho constante.
-9. **Excelência técnica:** qualidade técnica e bom design aumentam a agilidade.
-10. **Simplicidade:** fazer apenas o necessário.
-11. **Auto-organização:** equipes organizam seu próprio trabalho.
-12. **Melhoria contínua:** refletir, ajustar e melhorar constantemente.
+## 3. Kanban
 
-# MoSCoW
+**Kanban:** método visual para gerenciar e melhorar o fluxo de trabalho, identificando gargalos e limitando tarefas simultâneas.
 
-Método de priorização dividido em quatro categorias:
+### Exemplo de quadro Kanban
 
-- **Must have:** obrigatório.
-- **Should have:** importante, mas não essencial.
-- **Could have:** desejável, se houver tempo.
-- **Won't have:** não será feito neste momento.
+| A Fazer | Fazendo | Concluído |
+|---|---|---|
+| Tarefa A | Tarefa C | Tarefa D |
+| Tarefa B | | Tarefa E |
 
- # Kanban
+### Conceitos essenciais
 
-- Método de **gestão visual do fluxo de trabalho**.
-- Ajuda a visualizar, gerenciar e melhorar o andamento das tarefas.
-- Pode complementar o **Scrum**.
-- **Scrumban** combina práticas de Scrum e Kanban.
+- **WIP (Work in Progress):** quantidade de tarefas em andamento. Limitar WIP evita sobrecarga.
+- **Fluxo contínuo:** novas tarefas podem ser puxadas conforme existe capacidade.
+- **Lead Time:** tempo total entre a entrada de uma demanda no fluxo e sua entrega.
+- **Cycle Time:** tempo entre o início efetivo do trabalho e sua conclusão.
+- **Gargalo:** etapa que atrasa o fluxo.
 
- # Métricas e gráficos do fluxo
+> **Pegadinha:** Kanban não exige Sprints nem papéis específicos como Product Owner e Scrum Master. Pode ser aplicado fora do desenvolvimento de software.
 
-- **CFD (Cumulative Flow Diagram):** mostra a quantidade de itens acumulados em cada etapa do fluxo e ajuda a identificar gargalos.
-- **WIP (Work in Progress):** quantidade de tarefas que estão sendo executadas ao mesmo tempo.
-- **Gantt Chart:** mostra tarefas distribuídas ao longo do tempo, com duração e dependências.
-- **Histograma:** mostra a distribuição de dados por faixas, facilitando a análise de frequência.
-- **Dashboard:** painel visual que reúne indicadores e métricas importantes do projeto.
+---
 
-# Guia PMBOK 7
+## 4. Manifesto Ágil
 
-O **PMBOK 7** é um guia de boas práticas para gerenciamento de projetos.
+### Os quatro valores
 
-## Principais pontos
+1. **Pessoas e interações** acima de processos e ferramentas.
+2. **Software funcionando** acima de documentação extensa.
+3. **Colaboração com o cliente** acima de negociação contratual.
+4. **Responder a mudanças** acima de seguir rigidamente um plano.
 
-- Foco maior em **princípios** e resultados, e não apenas em processos.
-- Pode ser aplicado em projetos **tradicionais, ágeis ou híbridos**.
-- O objetivo principal é gerar **valor para a organização e para as partes interessadas**.
+Isso não significa abandonar processos, documentação, contratos ou planejamento. Significa valorizar mais os elementos da esquerda.
 
-## 12 princípios
+### Principais pontos dos 12 princípios
 
-- **Responsabilidade:** agir com ética e cuidado.
-- **Equipe:** criar ambiente colaborativo.
-- **Stakeholders:** envolver as partes interessadas.
-- **Valor:** manter o foco na entrega de valor.
-- **Pensamento sistêmico:** entender como as partes do projeto se relacionam.
-- **Liderança:** orientar e influenciar positivamente a equipe.
-- **Tailoring:** adaptar o gerenciamento conforme o projeto.
-- **Qualidade:** garantir que as entregas atendam às necessidades.
-- **Complexidade:** entender e lidar com situações complexas.
-- **Riscos:** identificar ameaças e oportunidades.
-- **Adaptabilidade e resiliência:** responder bem às mudanças.
-- **Mudança:** facilitar mudanças para alcançar os resultados esperados.
+- Satisfação do cliente.
+- Entregas frequentes.
+- Aceitar mudanças.
+- Colaboração entre cliente e equipe.
+- Simplicidade.
+- Qualidade técnica.
+- Ritmo sustentável.
+- Melhoria contínua.
 
-## 8 domínios de desempenho
+---
 
-- **Stakeholders**
-- **Equipe**
-- **Abordagem de desenvolvimento e ciclo de vida**
-- **Planejamento**
-- **Trabalho do projeto**
-- **Entrega**
-- **Medição**
-- **Incerteza**
+## 5. Comparação — Scrum, XP e Kanban
 
-> **Resumo:** o PMBOK 7 é focado em **valor, pessoas, adaptação, qualidade, riscos e resultados**, permitindo escolher a melhor abordagem para cada projeto.
+| Característica | Scrum | XP | Kanban |
+|---|---|---|---|
+| **Foco** | Gestão e entregas iterativas | Qualidade técnica | Fluxo de trabalho |
+| **Organização** | Sprints | Iterações e práticas técnicas | Fluxo contínuo |
+| **Papéis definidos** | Sim | Papéis e responsabilidades tradicionais de XP | Não obrigatórios |
+| **Destaque** | PO, Scrum Master e eventos | TDD, programação em pares e refatoração | Quadro, WIP e gargalos |
+
+### Para memorizar em 10 segundos
+
+- **Scrum:** organizar o trabalho em Sprints.
+- **XP:** desenvolver software com qualidade.
+- **Kanban:** visualizar e controlar o fluxo.
+
+---
+
+## 6. Outros Conceitos que Podem Aparecer
+
+| Conceito | O que lembrar |
+|---|---|
+| **Lean** | Eliminar desperdícios e maximizar valor |
+| **Planning Poker** | Estimativa colaborativa de esforço |
+| **Story Points** | Medida relativa de esforço, complexidade e incerteza |
+| **User Story** | Necessidade descrita pela perspectiva do usuário |
+| **MVP** | Versão mínima para validar uma ideia |
+| **Burndown Chart** | Gráfico do trabalho restante ao longo do tempo |
+| **PMBOK 7** | Guia de gerenciamento de projetos baseado em princípios, desempenho, valor e adaptação |
+| **Modelo Cascata** | Etapas mais sequenciais, com menor flexibilidade para mudanças |
+| **Empirismo** | Decidir com base em observação, experiência e evidências |
+
+### Atenção às versões do Scrum
+
+Materiais antigos podem mencionar equipes Scrum de **3 a 9 desenvolvedores**.
+
+No Scrum Guide 2020, a referência passou a ser um Scrum Team com tipicamente **10 pessoas ou menos**, incluindo Product Owner e Scrum Master.
+
+---
+
+## 8. 
+
+**SCRUM**
+- 3 pilares.
+- 5 valores.
+- 3 responsabilidades.
+- 5 eventos.
+- 3 artefatos.
+
+**XP**
+- 5 valores.
+- TDD.
+- Pair Programming.
+- Refatoração.
+- Integração contínua.
+
+**KANBAN**
+- Quadro visual.
+- WIP limitado.
+- Fluxo contínuo.
+- Eliminação de gargalos.
+
+**MANIFESTO ÁGIL**
+- 4 valores.
+- 12 princípios.
+
