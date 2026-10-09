@@ -170,31 +170,4 @@ Materiais antigos podem mencionar equipes Scrum de **3 a 9 desenvolvedores**.
 
 No Scrum Guide 2020, a referência passou a ser um Scrum Team com tipicamente **10 pessoas ou menos**, incluindo Product Owner e Scrum Master.
 
----
-
-## 8. 
-
-**SCRUM**
-- 3 pilares.
-- 5 valores.
-- 3 responsabilidades.
-- 5 eventos.
-- 3 artefatos.
-
-**XP**
-- 5 valores.
-- TDD.
-- Pair Programming.
-- Refatoração.
-- Integração contínua.
-
-**KANBAN**
-- Quadro visual.
-- WIP limitado.
-- Fluxo contínuo.
-- Eliminação de gargalos.
-
-**MANIFESTO ÁGIL**
-- 4 valores.
-- 12 princípios.
 
